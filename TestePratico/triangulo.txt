@@ -1,0 +1,19 @@
+A) a = 1, b = 2, c = 3
+
+Como a + b = 1 + 2 = 3 < 3, a condição não é atendida, então não é possível formar um triângulo.
+B) a = 3, b = 4, c = 5
+
+Como a + b = 3 + 4 = 7 > 5, a condição é atendida.
+Como a = 3, b = 4, e c = 5 são diferentes, é um Triângulo Escaleno.
+C) a = 2, b = 2, c = 4
+
+Como a + b = 2 + 2 = 4 = 4, a condição é atendida.
+Como a = b, é um Triângulo Isósceles.
+D) a = 4, b = 4, c = 4
+
+Como a + b = 4 + 4 = 8 > 4, a condição é atendida.
+Como a = b = c, é um Triângulo Equilátero.
+E) a = 5, b = 3, c = 3
+
+Como a + b = 5 + 3 = 8 > 3, a condição é atendida.
+Como b = c, é um Triângulo Isósceles.
